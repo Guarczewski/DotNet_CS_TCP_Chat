@@ -1,7 +1,9 @@
 # DotNet_CS_TCP_Chat
 
 Client folder contains Visual Studio solution of Client
+
 Server folder contains Visual Studio solution of Server
+
 Projekty folder contains Visual Studio solution of combined both Client and Server 
 
 # Serwer Window
