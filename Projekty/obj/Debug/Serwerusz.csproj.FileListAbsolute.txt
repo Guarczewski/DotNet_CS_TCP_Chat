@@ -1,0 +1,13 @@
+C:\Users\Xiądz\source\repos\Projekty\bin\Debug\Database.mdf
+C:\Users\Xiądz\source\repos\Projekty\bin\Debug\Database_log.ldf
+C:\Users\Xiądz\source\repos\Projekty\bin\Debug\Projekty.exe.config
+C:\Users\Xiądz\source\repos\Projekty\bin\Debug\Projekty.exe
+C:\Users\Xiądz\source\repos\Projekty\bin\Debug\Projekty.pdb
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Serwerusz.csproj.AssemblyReference.cache
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Serwerusz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Projekty.Properties.Resources.resources
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Serwerusz.csproj.GenerateResource.cache
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Serwerusz.csproj.CoreCompileInputs.cache
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Projekty.exe
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Projekty.pdb
+C:\Users\Xiądz\source\repos\Projekty\obj\Debug\Projekty.ClientHandler.resources
